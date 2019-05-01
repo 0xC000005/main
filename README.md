@@ -47,4 +47,8 @@ git push upstream <yourname-branchname>
 then go to the github page and make a pull request
 Get someone else to approve it (or not XD) and merge the branch
 
+oh btw to go back to the master branch just do
+```
+git checkout master
+```
 the end
