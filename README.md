@@ -30,7 +30,7 @@ npm install package-lock.json
 ```
 This will install all the modules used in the server.
 
-##more important info
+## more important info
 Before changing stuff, you want to get the latest code, so:
 ```
 git pull upstream master
